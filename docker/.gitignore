@@ -1,0 +1,8 @@
+# .gitignore
+
+
+*.sh
+
+data
+data/*
+
